@@ -19,7 +19,6 @@ test {
 		exceptionFormat "short"
 		events "started", "skipped", "passed", "failed"
 	}
-	
 	maxParallelForks = 8
 }
 
