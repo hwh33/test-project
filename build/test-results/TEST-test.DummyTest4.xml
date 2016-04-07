@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.DummyTest4" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-04-07T21:27:57" hostname="qf-evariant.local" time="3.004">
+  <properties/>
+  <testcase name="dummyTest4" classname="test.DummyTest4" time="3.004"/>
+  <system-out><![CDATA[Lunch was good, Mike
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
